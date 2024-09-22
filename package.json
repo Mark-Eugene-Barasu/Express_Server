@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mark-Eugene-Barasu/Express_Server/issues"
   },
-  "homepage": "https://github.com/Mark-Eugene-Barasu/Express_Server#readme"
+  "homepage": "https://github.com/Mark-Eugene-Barasu/Express_Server#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
