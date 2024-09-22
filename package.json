@@ -1,5 +1,6 @@
 {
   "name": "my-express-server",
+  "type": "module",
   "version": "1.0.0",
   "description": "Express tutorial with Angela Yu",
   "main": "server.js",
