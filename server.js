@@ -23,12 +23,13 @@ app.get("/contact", function (req, res){
 // for the about page
 app.get("/about", function(req, res) {
     res.send(`My name is Eugene Mark Korku Barasu, I have mastered HTML, CSS, SCSS & SASS, JavaScript, Node.JS, Python, MySQL, AngularJS, JSON, Java and still learning.I have mastered HTML, CSS, SCSS & SASS, JavaScript, Node.JS, Python, MySQL, AngularJS, JSON, Java and still learning.`)
-})
+
+});
 
 // for hobbies page
 app.get("/hobbies", function(req, res) {
     res.send(`<ul><li>coding</li><li>music</li><li>ethical hacking</li></ul>`);
-})
+});
 
 
 app.listen(3000, function(){

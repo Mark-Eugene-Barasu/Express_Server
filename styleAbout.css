@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(157, 190, 157);
+    color: purple;
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+    background-color: rgb(201, 234, 201);
+}
+
+strong {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
